@@ -122,6 +122,12 @@ $lang = array(
     "Yes" => "Ya",
     "No" => "Tidak",
     "You cannot rename the extension of files!" => "Anda tidak bisa mengubah ekstensi file!",
-    "Uploading file {number} of {count}... {progress}" => "Mengunggah file {number} of {count}... {progress}",
+    "Uploading file {number} of {count}... {progress}" => "Mengunggah {number} dari {count} file ... {progress}",
     "Failed to upload {filename}!" => "Gagal untuk mengunggah {filename}",
+    "Close:" => "Tutup",
+    "Previous" => "Sebelumnya",
+    "Next" => "Berikutnya",
+    "Confirmation" => "Konfirmasi",
+    "Warning" => "Peringatan",
+    
 );
